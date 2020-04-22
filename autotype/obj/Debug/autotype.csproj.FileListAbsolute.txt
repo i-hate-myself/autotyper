@@ -1,0 +1,15 @@
+D:\code\autotypefast\autotype\bin\Debug\autotype.exe.config
+D:\code\autotypefast\autotype\bin\Debug\autotype.exe
+D:\code\autotypefast\autotype\bin\Debug\autotype.pdb
+D:\code\autotypefast\autotype\obj\Debug\autotype.csprojAssemblyReference.cache
+D:\code\autotypefast\autotype\obj\Debug\autotype.Form1.resources
+D:\code\autotypefast\autotype\obj\Debug\autotype.Properties.Resources.resources
+D:\code\autotypefast\autotype\obj\Debug\autotype.csproj.GenerateResource.cache
+D:\code\autotypefast\autotype\obj\Debug\autotype.csproj.CoreCompileInputs.cache
+D:\code\autotypefast\autotype\obj\Debug\autotype.exe
+D:\code\autotypefast\autotype\obj\Debug\autotype.pdb
+D:\code\autotypefast\autotype\bin\Debug\autotype.exe.manifest
+D:\code\autotypefast\autotype\bin\Debug\autotype.application
+D:\code\autotypefast\autotype\obj\Debug\autotype.TrustInfo.xml
+D:\code\autotypefast\autotype\obj\Debug\autotype.exe.manifest
+D:\code\autotypefast\autotype\obj\Debug\autotype.application
