@@ -26,7 +26,8 @@ namespace autotype
                 wait(y);
                 while (X >= 1)
                 {
-                    SendKeys.Send(@Convert.ToString(textBox1.Text));
+                    Clipboard.SetText(textBox1.Text);
+                    SendKeys.Send("^(V)");
                     SendKeys.Send("{ENTER}");
                     X--;
                 }
